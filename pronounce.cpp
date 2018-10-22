@@ -183,9 +183,6 @@ int main() {
 
 	fin.close();
 
-	fin.close();
-
-
 	if (!found) {
 
 		cout << "NOT FOUND" << endl;
